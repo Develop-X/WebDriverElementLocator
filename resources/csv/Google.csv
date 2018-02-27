@@ -1,0 +1,12 @@
+Xpath,//a[normalize-space(text())='Images']
+Xpath,//a[normalize-space(text())='Gmail']
+Xpath,//a[normalize-space(text())='Settings']
+id,gb_70
+Xpath,//a[normalize-space(text())='Advanced search']
+Xpath,//a[normalize-space(text())='Privacy']
+Xpath,//a[normalize-space(text())='Terms']
+name,source
+name,q
+name,btnG
+name,btnI
+id,footer
